@@ -7,3 +7,4 @@ This proyect was created with my classmates:
 - Raquel Sofía Corrales Marín (GitHub user: raquelcorrales)
 
 I will be updating details of the proyect in my freetime
+If you like the designed code of the proyecto, please Star this repository, I appreciate that!
